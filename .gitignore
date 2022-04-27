@@ -1,0 +1,6 @@
+# Project exclude paths
+/cookie/target/
+/jsp/target/
+/response/target/
+/servlet-01/target/
+/servlet-02/target/
